@@ -1,4 +1,4 @@
-package a.test.omertest.rxcrutch;
+package io.reactivex;
 
 public class Observable {
 }
